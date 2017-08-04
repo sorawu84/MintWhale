@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "19187944380",
+    "firebase_url": "https://nullgardendatabase.firebaseio.com",
+    "project_id": "nullgardendatabase",
+    "storage_bucket": "nullgardendatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19187944380:android:c254d8fc5e987165",
+        "android_client_info": {
+          "package_name": "com.nullgarden.talkie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19187944380-m0om2q26tg3rdq2o3q4e062rhtf5d1l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nullgarden.talkie",
+            "certificate_hash": "c1e079783c355db1a3b6aca274a3c334badd4eb0"
+          }
+        },
+        {
+          "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjij900Ceoi9lFIKNG6HOGzIJNBvJzXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19187944380:android:5217f24d125212d9",
+        "android_client_info": {
+          "package_name": "com.nullgarden.mintwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19187944380-4ssupa6a2mv6p7o8tavm3urqro1hv56u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nullgarden.mintwall",
+            "certificate_hash": "c1e079783c355db1a3b6aca274a3c334badd4eb0"
+          }
+        },
+        {
+          "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjij900Ceoi9lFIKNG6HOGzIJNBvJzXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19187944380:android:e99f47901e5df865",
+        "android_client_info": {
+          "package_name": "com.nullgarden.hunnybottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19187944380-3g8p3p11qsnkdaukmbvtplnlddi75mnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nullgarden.hunnybottle",
+            "certificate_hash": "c1e079783c355db1a3b6aca274a3c334badd4eb0"
+          }
+        },
+        {
+          "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjij900Ceoi9lFIKNG6HOGzIJNBvJzXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19187944380:android:b9c86378c1122602",
+        "android_client_info": {
+          "package_name": "com.nullgarden.chatcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19187944380-e4jte6bmramfn4giaptvjqsgi8qhhton.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nullgarden.chatcat",
+            "certificate_hash": "c1e079783c355db1a3b6aca274a3c334badd4eb0"
+          }
+        },
+        {
+          "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjij900Ceoi9lFIKNG6HOGzIJNBvJzXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19187944380:android:75729981f692afa2",
+        "android_client_info": {
+          "package_name": "com.nullgarden.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19187944380-i7lfhg6oantf5c6p633emllhui4ljpps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nullgarden.qa",
+            "certificate_hash": "c1e079783c355db1a3b6aca274a3c334badd4eb0"
+          }
+        },
+        {
+          "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjij900Ceoi9lFIKNG6HOGzIJNBvJzXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19187944380:android:f5ede369bc4c0b9c",
+        "android_client_info": {
+          "package_name": "com.nullgarden.mintwhale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19187944380-5cacd215o9gur9i6uktulilqkmne3o89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nullgarden.mintwhale",
+            "certificate_hash": "c1e079783c355db1a3b6aca274a3c334badd4eb0"
+          }
+        },
+        {
+          "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjij900Ceoi9lFIKNG6HOGzIJNBvJzXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19187944380-9ap1tnvfips22imgjlc1hrjf8de3obu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nullgarden.mintwhale.EditProfileActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:alpha="0.7"
+            android:orientation="horizontal"
+            tools:background="@color/BarColor">
+
+            <ImageView
+                android:id="@+id/returnEditBtn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_keyboard_return_black_24dp" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="276dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingTop="4dp"
+                android:text="Edit Profile"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/doneEditBtn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/ic_done_black_24dp" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/logoutBtn"
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:text="Logout"
+            android:textSize="10sp" />
+
+        <ImageView
+            android:id="@+id/changePP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/ic_account_circle_black_24dp" />
+
+        <TextView
+            android:id="@+id/changPPTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Change Photo"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat" />
+
+        <EditText
+            android:id="@+id/changeNameField"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:hint="Please input your new name"
+            android:inputType="textPersonName" />
+
+    </LinearLayout>
+
+
+</ScrollView>
